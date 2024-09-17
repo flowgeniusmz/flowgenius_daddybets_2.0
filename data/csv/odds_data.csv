@@ -1,0 +1,97 @@
+,eventGroupId,displayGroupId,eventGroupName,offerCategoryId,offerCategoryName,subcategoryId,subcategoryName,offerSubcategoryName,offerSubcategoryId,offerLabel,outcomeLabel,oddsAmerican,oddsDecimal,participant
+0,88808,3,NFL,492,Game Lines,4518,Game,Game,4518,Spread,NE Patriots,-112,1.89285715,NE Patriots
+1,88808,3,NFL,492,Game Lines,4518,Game,Game,4518,Spread,NY Jets,-108,1.92592593,NY Jets
+2,88808,3,NFL,492,Game Lines,4518,Game,Game,4518,Total,Over,-110,1.90909091,
+3,88808,3,NFL,492,Game Lines,4518,Game,Game,4518,Total,Under,-110,1.90909091,
+4,88808,3,NFL,492,Game Lines,4518,Game,Game,4518,Moneyline,NE Patriots,+230,3.3,NE Patriots
+5,88808,3,NFL,492,Game Lines,4518,Game,Game,4518,Moneyline,NY Jets,-285,1.3508772,NY Jets
+6,88808,3,NFL,492,Game Lines,4518,Game,Game,4518,Spread,CHI Bears,-110,1.90909091,CHI Bears
+7,88808,3,NFL,492,Game Lines,4518,Game,Game,4518,Spread,IND Colts,-110,1.90909091,IND Colts
+8,88808,3,NFL,492,Game Lines,4518,Game,Game,4518,Total,Over,-108,1.92592593,
+9,88808,3,NFL,492,Game Lines,4518,Game,Game,4518,Total,Under,-112,1.89285715,
+10,88808,3,NFL,492,Game Lines,4518,Game,Game,4518,Moneyline,CHI Bears,-105,1.95238096,CHI Bears
+11,88808,3,NFL,492,Game Lines,4518,Game,Game,4518,Moneyline,IND Colts,-115,1.86956522,IND Colts
+12,88808,3,NFL,492,Game Lines,4518,Game,Game,4518,Spread,DEN Broncos,-112,1.89285715,DEN Broncos
+13,88808,3,NFL,492,Game Lines,4518,Game,Game,4518,Spread,TB Buccaneers,-108,1.92592593,TB Buccaneers
+14,88808,3,NFL,492,Game Lines,4518,Game,Game,4518,Total,Over,-108,1.92592593,
+15,88808,3,NFL,492,Game Lines,4518,Game,Game,4518,Total,Under,-112,1.89285715,
+16,88808,3,NFL,492,Game Lines,4518,Game,Game,4518,Moneyline,DEN Broncos,+260,3.6,DEN Broncos
+17,88808,3,NFL,492,Game Lines,4518,Game,Game,4518,Moneyline,TB Buccaneers,-325,1.30769231,TB Buccaneers
+18,88808,3,NFL,492,Game Lines,4518,Game,Game,4518,Spread,PHI Eagles,-120,1.83333334,PHI Eagles
+19,88808,3,NFL,492,Game Lines,4518,Game,Game,4518,Spread,NO Saints,+100,2.0,NO Saints
+20,88808,3,NFL,492,Game Lines,4518,Game,Game,4518,Total,Over,-112,1.89285715,
+21,88808,3,NFL,492,Game Lines,4518,Game,Game,4518,Total,Under,-108,1.92592593,
+22,88808,3,NFL,492,Game Lines,4518,Game,Game,4518,Moneyline,PHI Eagles,+124,2.24,PHI Eagles
+23,88808,3,NFL,492,Game Lines,4518,Game,Game,4518,Moneyline,NO Saints,-148,1.67567568,NO Saints
+24,88808,3,NFL,492,Game Lines,4518,Game,Game,4518,Spread,HOU Texans,-112,1.89285715,HOU Texans
+25,88808,3,NFL,492,Game Lines,4518,Game,Game,4518,Spread,MIN Vikings,-108,1.92592593,MIN Vikings
+26,88808,3,NFL,492,Game Lines,4518,Game,Game,4518,Total,Over,-110,1.90909091,
+27,88808,3,NFL,492,Game Lines,4518,Game,Game,4518,Total,Under,-110,1.90909091,
+28,88808,3,NFL,492,Game Lines,4518,Game,Game,4518,Moneyline,HOU Texans,-142,1.70422536,HOU Texans
+29,88808,3,NFL,492,Game Lines,4518,Game,Game,4518,Moneyline,MIN Vikings,+120,2.2,MIN Vikings
+30,88808,3,NFL,492,Game Lines,4518,Game,Game,4518,Spread,LA Chargers,-108,1.92592593,LA Chargers
+31,88808,3,NFL,492,Game Lines,4518,Game,Game,4518,Spread,PIT Steelers,-112,1.89285715,PIT Steelers
+32,88808,3,NFL,492,Game Lines,4518,Game,Game,4518,Total,Over,-110,1.90909091,
+33,88808,3,NFL,492,Game Lines,4518,Game,Game,4518,Total,Under,-110,1.90909091,
+34,88808,3,NFL,492,Game Lines,4518,Game,Game,4518,Moneyline,LA Chargers,+105,2.05,LA Chargers
+35,88808,3,NFL,492,Game Lines,4518,Game,Game,4518,Moneyline,PIT Steelers,-125,1.8,PIT Steelers
+36,88808,3,NFL,492,Game Lines,4518,Game,Game,4518,Spread,GB Packers,-115,1.86956522,GB Packers
+37,88808,3,NFL,492,Game Lines,4518,Game,Game,4518,Spread,TEN Titans,-105,1.95238096,TEN Titans
+38,88808,3,NFL,492,Game Lines,4518,Game,Game,4518,Total,Over,-110,1.90909091,
+39,88808,3,NFL,492,Game Lines,4518,Game,Game,4518,Total,Under,-110,1.90909091,
+40,88808,3,NFL,492,Game Lines,4518,Game,Game,4518,Moneyline,GB Packers,+130,2.3,GB Packers
+41,88808,3,NFL,492,Game Lines,4518,Game,Game,4518,Moneyline,TEN Titans,-155,1.6451613,TEN Titans
+42,88808,3,NFL,492,Game Lines,4518,Game,Game,4518,Spread,NY Giants,-105,1.95238096,NY Giants
+43,88808,3,NFL,492,Game Lines,4518,Game,Game,4518,Spread,CLE Browns,-115,1.86956522,CLE Browns
+44,88808,3,NFL,492,Game Lines,4518,Game,Game,4518,Total,Over,-112,1.89285715,
+45,88808,3,NFL,492,Game Lines,4518,Game,Game,4518,Total,Under,-108,1.92592593,
+46,88808,3,NFL,492,Game Lines,4518,Game,Game,4518,Moneyline,NY Giants,+230,3.3,NY Giants
+47,88808,3,NFL,492,Game Lines,4518,Game,Game,4518,Moneyline,CLE Browns,-285,1.3508772,CLE Browns
+48,88808,3,NFL,492,Game Lines,4518,Game,Game,4518,Spread,CAR Panthers,-112,1.89285715,CAR Panthers
+49,88808,3,NFL,492,Game Lines,4518,Game,Game,4518,Spread,LV Raiders,-108,1.92592593,LV Raiders
+50,88808,3,NFL,492,Game Lines,4518,Game,Game,4518,Total,Over,-110,1.90909091,
+51,88808,3,NFL,492,Game Lines,4518,Game,Game,4518,Total,Under,-110,1.90909091,
+52,88808,3,NFL,492,Game Lines,4518,Game,Game,4518,Moneyline,CAR Panthers,+190,2.9,CAR Panthers
+53,88808,3,NFL,492,Game Lines,4518,Game,Game,4518,Moneyline,LV Raiders,-230,1.43478261,LV Raiders
+54,88808,3,NFL,492,Game Lines,4518,Game,Game,4518,Spread,MIA Dolphins,-110,1.90909091,MIA Dolphins
+55,88808,3,NFL,492,Game Lines,4518,Game,Game,4518,Spread,SEA Seahawks,-110,1.90909091,SEA Seahawks
+56,88808,3,NFL,492,Game Lines,4518,Game,Game,4518,Total,Over,-112,1.89285715,
+57,88808,3,NFL,492,Game Lines,4518,Game,Game,4518,Total,Under,-108,1.92592593,
+58,88808,3,NFL,492,Game Lines,4518,Game,Game,4518,Moneyline,MIA Dolphins,+180,2.8,MIA Dolphins
+59,88808,3,NFL,492,Game Lines,4518,Game,Game,4518,Moneyline,SEA Seahawks,-218,1.4587156,SEA Seahawks
+60,88808,3,NFL,492,Game Lines,4518,Game,Game,4518,Spread,SF 49ers,-115,1.86956522,SF 49ers
+61,88808,3,NFL,492,Game Lines,4518,Game,Game,4518,Spread,LA Rams,-105,1.95238096,LA Rams
+62,88808,3,NFL,492,Game Lines,4518,Game,Game,4518,Total,Over,-112,1.89285715,
+63,88808,3,NFL,492,Game Lines,4518,Game,Game,4518,Total,Under,-108,1.92592593,
+64,88808,3,NFL,492,Game Lines,4518,Game,Game,4518,Moneyline,SF 49ers,-345,1.28985508,SF 49ers
+65,88808,3,NFL,492,Game Lines,4518,Game,Game,4518,Moneyline,LA Rams,+275,3.75,LA Rams
+66,88808,3,NFL,492,Game Lines,4518,Game,Game,4518,Spread,DET Lions,-118,1.84745763,DET Lions
+67,88808,3,NFL,492,Game Lines,4518,Game,Game,4518,Spread,ARI Cardinals,-102,1.98039216,ARI Cardinals
+68,88808,3,NFL,492,Game Lines,4518,Game,Game,4518,Total,Over,-112,1.89285715,
+69,88808,3,NFL,492,Game Lines,4518,Game,Game,4518,Total,Under,-108,1.92592593,
+70,88808,3,NFL,492,Game Lines,4518,Game,Game,4518,Moneyline,DET Lions,-148,1.67567568,DET Lions
+71,88808,3,NFL,492,Game Lines,4518,Game,Game,4518,Moneyline,ARI Cardinals,+124,2.24,ARI Cardinals
+72,88808,3,NFL,492,Game Lines,4518,Game,Game,4518,Spread,BAL Ravens,-112,1.89285715,BAL Ravens
+73,88808,3,NFL,492,Game Lines,4518,Game,Game,4518,Spread,DAL Cowboys,-108,1.92592593,DAL Cowboys
+74,88808,3,NFL,492,Game Lines,4518,Game,Game,4518,Total,Over,-108,1.92592593,
+75,88808,3,NFL,492,Game Lines,4518,Game,Game,4518,Total,Under,-112,1.89285715,
+76,88808,3,NFL,492,Game Lines,4518,Game,Game,4518,Moneyline,BAL Ravens,-118,1.84745763,BAL Ravens
+77,88808,3,NFL,492,Game Lines,4518,Game,Game,4518,Moneyline,DAL Cowboys,-102,1.98039216,DAL Cowboys
+78,88808,3,NFL,492,Game Lines,4518,Game,Game,4518,Spread,KC Chiefs,-108,1.92592593,KC Chiefs
+79,88808,3,NFL,492,Game Lines,4518,Game,Game,4518,Spread,ATL Falcons,-112,1.89285715,ATL Falcons
+80,88808,3,NFL,492,Game Lines,4518,Game,Game,4518,Total,Over,-112,1.89285715,
+81,88808,3,NFL,492,Game Lines,4518,Game,Game,4518,Total,Under,-108,1.92592593,
+82,88808,3,NFL,492,Game Lines,4518,Game,Game,4518,Moneyline,KC Chiefs,-175,1.57142858,KC Chiefs
+83,88808,3,NFL,492,Game Lines,4518,Game,Game,4518,Moneyline,ATL Falcons,+145,2.45,ATL Falcons
+84,88808,3,NFL,492,Game Lines,4518,Game,Game,4518,Spread,JAX Jaguars,-110,1.90909091,JAX Jaguars
+85,88808,3,NFL,492,Game Lines,4518,Game,Game,4518,Spread,BUF Bills,-110,1.90909091,BUF Bills
+86,88808,3,NFL,492,Game Lines,4518,Game,Game,4518,Total,Over,-110,1.90909091,
+87,88808,3,NFL,492,Game Lines,4518,Game,Game,4518,Total,Under,-110,1.90909091,
+88,88808,3,NFL,492,Game Lines,4518,Game,Game,4518,Moneyline,JAX Jaguars,+200,3.0,JAX Jaguars
+89,88808,3,NFL,492,Game Lines,4518,Game,Game,4518,Moneyline,BUF Bills,-245,1.40816327,BUF Bills
+90,88808,3,NFL,492,Game Lines,4518,Game,Game,4518,Spread,WAS Commanders,-112,1.89285715,WAS Commanders
+91,88808,3,NFL,492,Game Lines,4518,Game,Game,4518,Spread,CIN Bengals,-108,1.92592593,CIN Bengals
+92,88808,3,NFL,492,Game Lines,4518,Game,Game,4518,Total,Over,-110,1.90909091,
+93,88808,3,NFL,492,Game Lines,4518,Game,Game,4518,Total,Under,-110,1.90909091,
+94,88808,3,NFL,492,Game Lines,4518,Game,Game,4518,Moneyline,WAS Commanders,+295,3.95,WAS Commanders
+95,88808,3,NFL,492,Game Lines,4518,Game,Game,4518,Moneyline,CIN Bengals,-375,1.26666667,CIN Bengals
