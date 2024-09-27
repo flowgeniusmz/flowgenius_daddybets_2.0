@@ -32,15 +32,14 @@ def main():
             }
             token = jwt.encode(payload, st.secrets.jwt.secret_key, algorithm='HS256')
 
-            # Redirect the parent window to the chat page with token
-            # st.write(f"""
-            #     <script>
-            #     window.top.location.href = "https://daddybetsgpt.com/chat?token={token}";
-            #     </script>
-            # """, unsafe_allow_html=True)
+            # Prepare the message to send
+            message_data = json.dumps({'type': 'loginSuccess', 'token': token})
+
+            # Inject JavaScript code to send the message
             st.write(f"""
                 <script>
-                window.parent.postMessage({json.dumps({'type': 'loginSuccess', 'token': token})}, 'https://daddybetsgpt.com');
+                    console.log('Sending postMessage to parent window');
+                    window.parent.postMessage({message_data}, 'https://daddybetsgpt.com');
                 </script>
             """, unsafe_allow_html=True)
         else:
