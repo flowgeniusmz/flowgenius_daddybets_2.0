@@ -53,7 +53,7 @@ def fetch_betting_lines():
     API_KEY = '6b94ab1d81d71ea87b64473a1519fefd'  # Replace with your actual API key
     SPORT = 'americanfootball_nfl'
     REGIONS = 'us'  # Options: us, uk, eu, au
-    MARKETS = 'h2h,spreads,totals'  # Options: h2h, spreads, totals
+    MARKETS = 'h2h,spreads'  # Options: h2h, spreads, totals
     ODDS_FORMAT = 'american'  # Options: decimal, american
     DATE_FORMAT = 'iso'  # Options: iso, unix
 

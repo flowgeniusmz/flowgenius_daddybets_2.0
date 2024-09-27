@@ -18,3 +18,4 @@ nfl_data_py
 matplotlib
 pyarrow
 fastparquet
+jwt
