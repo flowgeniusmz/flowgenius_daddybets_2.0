@@ -2,7 +2,7 @@ import streamlit as st
 from supabase import create_client, Client
 import jwt
 import datetime
-
+import json
 
 def main():
     st.title("Login")
@@ -33,9 +33,14 @@ def main():
             token = jwt.encode(payload, st.secrets.jwt.secret_key, algorithm='HS256')
 
             # Redirect the parent window to the chat page with token
+            # st.write(f"""
+            #     <script>
+            #     window.top.location.href = "https://daddybetsgpt.com/chat?token={token}";
+            #     </script>
+            # """, unsafe_allow_html=True)
             st.write(f"""
                 <script>
-                window.top.location.href = "https://daddybetsgpt.com/chat?token={token}";
+                window.parent.postMessage({json.dumps({'type': 'loginSuccess', 'token': token})}, 'https://daddybetsgpt.com');
                 </script>
             """, unsafe_allow_html=True)
         else:
