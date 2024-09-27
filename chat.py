@@ -2,6 +2,7 @@ import streamlit as st
 from openai import OpenAI
 import jwt
 from supabase import create_client, Client
+from config import pagesetup as ps
 
 def main():
     st.title("Chat with AI Assistant")
@@ -67,27 +68,33 @@ def main():
         if 'messages' not in st.session_state:
             st.session_state['messages'] = []
 
+        chatcontainer = ps.get_styled_container()
+        promptcontainer = st.container(border=False)
+
         # Display previous messages
-        for message in st.session_state['messages']:
-            with st.chat_message(message['role']):
-                st.write(message['content'])
+        with chatcontainer:
+            for message in st.session_state['messages']:
+                with st.chat_message(message['role']):
+                    st.write(message['content'])
 
         # Chat input
-        if prompt := st.chat_input("Type your message"):
-            with st.chat_message("user"):
-                st.write(prompt)
-            st.session_state['messages'].append({"role": "user", "content": prompt})
+        with promptcontainer:
+            if prompt := st.chat_input("Type your message"):
+                with st.chat_message("user"):
+                    st.write(prompt)
+                st.session_state['messages'].append({"role": "user", "content": prompt})
 
-            with st.chat_message("assistant"):
-                with st.spinner("Thinking..."):
-                    response = oaiclient.chat.completions.create(
-                        model="gpt-4o-mini",
-                        messages=st.session_state['messages'],
-                        max_tokens=150
-                    )
-                    assistant_message = response['choices'][0]['message']['content']
-                    st.write(assistant_message)
-                    st.session_state['messages'].append({"role": "assistant", "content": assistant_message})
+            with chatcontainer:
+                with st.chat_message("assistant"):
+                    with st.spinner("Thinking..."):
+                        response = oaiclient.chat.completions.create(
+                            model="gpt-4o-mini",
+                            messages=st.session_state['messages'],
+                            max_tokens=150
+                        )
+                        assistant_message = response['choices'][0]['message']['content']
+                        st.write(assistant_message)
+                        st.session_state['messages'].append({"role": "assistant", "content": assistant_message})
 
 if __name__ == "__page__":
     main()

@@ -1,6 +1,9 @@
 import streamlit as st
+from config import pagesetup as ps
 
 st.set_page_config(page_title="DaddyBetsGPT", page_icon="👨‍💻", layout="wide")
+ps.get_page_styling()
+ps.display_background_image()
 
 # Define pages using st.Page
 login_page = st.Page("login.py", title="Login", icon="🔑", url_path="login")
