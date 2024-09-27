@@ -19,3 +19,4 @@ matplotlib
 pyarrow
 fastparquet
 jwt
+streamlit-extras
