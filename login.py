@@ -3,8 +3,8 @@ from supabase import create_client, Client
 import jwt
 import datetime
 
+
 def main():
-    st.set_page_config(page_title="Login", page_icon="🔑", initial_sidebar_state="collapsed")
     st.title("Login")
 
     # Supabase credentials from Streamlit secrets

@@ -4,7 +4,6 @@ import jwt
 from supabase import create_client, Client
 
 def main():
-    st.set_page_config(page_title="Chat", page_icon="💬", initial_sidebar_state="collapsed")
     st.title("Chat with AI Assistant")
 
     # Retrieve the token from st.query_params
